@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Joel Kininmonth
-- 
-- 👀 I’m interested in personal development and learning new things. 
-- 
-- 🌱 I’m currently learning to build my own website using HTML, CSS and JS
-- 
+- 👋 Hi
 - 
 
 <!---
